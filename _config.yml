@@ -1,0 +1,7 @@
+destination: public
+exclude: [Gemfile, Gemfile.lock, .rvmrc, public]
+
+title: Thank A Govie!
+
+gems:
+  - jekyll-redirect-from
